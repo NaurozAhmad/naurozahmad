@@ -1,1 +1,1 @@
-Sitemap: /naurozahmad/sitemap.xml
+Sitemap: /sitemap.xml
