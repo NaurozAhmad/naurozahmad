@@ -5,385 +5,126 @@
     <description>Articles about marketing trends, case studies and tutorials.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Jan 2023 03:29:19 +0500</pubDate>
-    <lastBuildDate>Sat, 07 Jan 2023 03:29:19 +0500</lastBuildDate>
+    <pubDate>Tue, 24 Jan 2023 16:21:02 +0500</pubDate>
+    <lastBuildDate>Tue, 24 Jan 2023 16:21:02 +0500</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
       <item>
-        <title>Powerful things you can do with the Markdown editor</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+        <title>Go beyond first names. Personalization is about a lot more.</title>
+        <description>&lt;p&gt;Personalization in email marketing can be a great tool to grab your audience’s attention, but just adding someone’s name in the subject line or body of the email doesn’t always cut it.&lt;/p&gt;
 
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+&lt;p&gt;Email marketing is still going strong. According to &lt;a href=&quot;https://www.statista.com/statistics/812060/email-marketing-revenue-worldwide/&quot; target=&quot;_blank&quot;&gt;Statista&lt;/a&gt;, email marketing will be a $17.9 billion market by 2027. With an ROI of $36 for every $1 spent (source: &lt;a href=&quot;https://www.litmus.com/resources/email-marketing-roi/&quot; target=&quot;_blank&quot;&gt;Litmus&lt;/a&gt;), email marketing should be in the top 3 priorities for every business. But because everyone’s getting so many emails in their inbox every day, as marketers, we need to make sure our emails stand out, give value to readers, and make them look forward to more emails from you.&lt;/p&gt;
 
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+&lt;p&gt;“Personalization” is a critical component of effective email marketing. It involves tailoring the content, tone, and delivery of your emails to match your subscribers’ specific interests and needs. Personalized emails are more likely to be opened, read, and acted upon than generic, one-size-fits-all emails.&lt;/p&gt;
 
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt;To personalize your emails, you need to know where your subscribers are coming from. And so, you need to track where your new leads come from, what information they consume, and how they interact with your site or app. Using this data, you can optimize your communication with them in not just email marketing but in other touchpoints as well. So make sure to invest your time and effort into integrating analytics tools into your site or app and making your communication relevant to your audience’s interests.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;You can personalize your emails in various ways, and different kinds of personalization can have different impacts on the effectiveness of your emails. See below a few essential types of personalization that you should consider incorporating into your email marketing strategy:&lt;/p&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;h2 id=&quot;subject-lines&quot;&gt;Subject lines&lt;/h2&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;p&gt;Using the subscriber’s name in the subject line is a great idea. But you can have a more significant impact by referencing their past behavior or interest. Here are a few examples:&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id=&quot;sign-up-from-a-blog-post&quot;&gt;Sign-up from a blog post&lt;/h3&gt;
 
-&lt;h4 id=&quot;html&quot;&gt;HTML&lt;/h4&gt;
+&lt;p&gt;Someone subscribed to your email list after reading an article about the latest trends in Google Ads. Since you know where they signed up, you can give them more value by writing your email according to their interest.&lt;/p&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;li&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;ml-1 mr-1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;target=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;_blank&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;i&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fab fa-twitter&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/i&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;In the subject line, you can say something like, “Hi Jim, Google just launched a new update.”&lt;/p&gt;
 
-&lt;h4 id=&quot;css&quot;&gt;CSS&lt;/h4&gt;
+&lt;p&gt;And the sub-text could be “This new update makes managing Performance Max campaigns easier.”&lt;/p&gt;
 
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#999988&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-style&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;italic&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.err&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#a61717&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#e3d2d2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id=&quot;customer-of-a-local-business&quot;&gt;Customer of a local business&lt;/h3&gt;
 
-&lt;h4 id=&quot;js&quot;&gt;JS&lt;/h4&gt;
+&lt;p&gt;Here’s an example of a restaurant running an email blast about a new addition to its menu. It would be great to mention the location closest to your customer.&lt;/p&gt;
 
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;// alertbar later&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;280&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.alertbar&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.alertbar&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Subject line: “Hey, Amy. We just launched our new habanero cheeseburger.:&lt;/p&gt;
 
-&lt;h4 id=&quot;python&quot;&gt;Python&lt;/h4&gt;
+&lt;p&gt;Sub-text: “Visit the Park Ave branch and try it out!”&lt;/p&gt;
 
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;See below a few more examples:&lt;/p&gt;
 
-&lt;h4 id=&quot;ruby&quot;&gt;Ruby&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;“John, we have new arrivals in the running shoes category.”&lt;/li&gt;
+  &lt;li&gt;“Just for you, Tiffany: Our new collection of scrunchies.”&lt;/li&gt;
+  &lt;li&gt;“Thanks for subscribing. Here’s your first exclusive offer.”&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;redcarpet&apos;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;markdown&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Redcarpet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Hello World!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;to_html&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;These subject lines reference the subscriber’s specific interests or past behavior, increasing the chances that they will open the email.&lt;/p&gt;
 
-&lt;h4 id=&quot;c&quot;&gt;C&lt;/h4&gt;
+&lt;h2 id=&quot;segmentation&quot;&gt;Segmentation&lt;/h2&gt;
 
-&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;We all get tons of emails these days, and it takes effort to cut through the noise and stand out. You need to send people emails that will be interesting and helpful to them. When you have user analytics data, you can segment your email list into groups based on their location, age group, interests, or behavior on your website or app. This allows you to create targeted, relevant content for different groups of subscribers.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Let’s say you run an online store selling clothing and home goods. You could segment your email list into “Clothing Interests” and “Home Goods Interests”. You can then create targeted, relevant content for each group. Send an email to the “Clothing Interests” group that features a new clothing collection and provides a special discount code for the clothing items. And for the “Home Goods Interests” group, you could send an email that features a new home goods collection and provides a special discount code for the home goods items.&lt;/p&gt;
 
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0500</pubDate>
-        <link>/powerful-things-markdown-editor/</link>
-        <guid isPermaLink="true">/powerful-things-markdown-editor/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>The first mass-produced book to deviate from a rectilinear format</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0500</pubDate>
-        <link>/first-mass-produced/</link>
-        <guid isPermaLink="true">/first-mass-produced/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Education must also train one for quick, resolute and effective thinking.</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
-
-&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt;Other ways to segment email lists are:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
+  &lt;li&gt;Purchase history&lt;/li&gt;
+  &lt;li&gt;Website or app usage, pages visited&lt;/li&gt;
+  &lt;li&gt;Engagement with previous emails&lt;/li&gt;
+  &lt;li&gt;Age, location, or gender&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt;These are just a few examples, but there are many ways you can segment your email list to create targeted, relevant content for your subscribers. The key is to use data and analytics to identify meaningful segments and test different segmentation strategies to see what works best for your audience.&lt;/p&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;h2 id=&quot;dynamic-content&quot;&gt;Dynamic content&lt;/h2&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Segmentation and dynamic content are related, but they are two different strategies used in email marketing. In segmentation, you divide your email list based on behavior, demographics, or interests. With Dynamic content, you can show different images, text, calls to action, and other elements to subscribers based on their behavior, demographics, interests, or other criteria.&lt;/p&gt;
 
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+&lt;p&gt;Tools like MailChimp, SendGrid, and HubSpot have built-in features that help you make dynamic templates by loading different content if conditions match certain user types.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Let’s say you’re sending an email for a new product line. You know that one customer has been interested in shoes and another bought a dress just a week ago. You can design your email template so that the main image and title for the first customer are about shoes, and for the second customer, they’re about dresses.&lt;/p&gt;
 
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+&lt;p&gt;A few other examples of dynamic content:&lt;/p&gt;
 
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Location-based content: Show different content or offers to subscribers based on location. For example, you could show different store locations or events in a subscriber’s area.&lt;/li&gt;
+  &lt;li&gt;Personalized calls to action: Show different calls to action to different subscribers based on their past behavior or interests. For example, if a subscriber has already made a purchase, you could show them a CTA to leave a review or refer a friend, while if they haven’t made a purchase yet, you could show them a CTA to make a purchase.&lt;/li&gt;
+  &lt;li&gt;Customized email design: Show different email designs to subscribers based on their interests or past behavior.&lt;/li&gt;
+  &lt;li&gt;Language preference: Show different languages to subscribers based on their language preferences. This is especially useful for companies with a global reach.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+&lt;p&gt;The advantage of using dynamic content over segmentation is that it allows for an even more granular personalization. Showing different information within the same email can be used to address the specific needs or interests of the subscriber without sending multiple emails.&lt;/p&gt;
 
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+&lt;p&gt;In practice, segmentation and dynamic content are often used together to create highly targeted, personalized email campaigns. For example, you could use segmentation to divide your email list into different groups and then use dynamic content to show different images or CTAs to each group based on their behavior or interests. By utilizing both segmentation and dynamic content, you can create a more comprehensive and effective email marketing strategy that addresses each subscriber’s specific needs and interests. This will help you to increase engagement, conversion rates, and overall ROI.&lt;/p&gt;
 
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+&lt;h2 id=&quot;triggered-emails&quot;&gt;Triggered emails&lt;/h2&gt;
 
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Triggered emails are automated emails based on a specific action or event, such as a subscriber’s behavior, a purchase, an abandoned cart, or a date. See below a few examples of triggered emails that you can use in your email marketing campaigns:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Welcome email:&lt;/strong&gt; Send a welcome email to new subscribers that confirm their subscription and provide them with information about your company or products.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Abandoned cart email:&lt;/strong&gt; Send an email to customers who have added items to their cart but still need to complete their purchase, reminding them of the items in their cart and providing an incentive to complete the purchase.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Purchase confirmation email:&lt;/strong&gt; Send a confirmation email to customers after they make a purchase, providing them with a receipt and other information about the purchase.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Post-purchase follow-up email:&lt;/strong&gt; Send an email a few days after purchase to ask for feedback or reviews about the products or services purchased.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Anniversary email:&lt;/strong&gt; Send an email to customers on the anniversary of their first purchase or subscription, thanking them for their loyalty and offering them a special offer.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Birthday email:&lt;/strong&gt; Send an email to the subscribers on their birthday with a special offer or discount.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Booking confirmation email:&lt;/strong&gt; Send a confirmation email to customers after booking, providing them with a confirmation number, booking details, and any additional information such as check-in/check-out times or cancellation policies.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Booking reminder email:&lt;/strong&gt; Send an email to customers a few days before their booking, reminding them of their upcoming booking, providing them with any additional information such as directions or parking information, and asking if they need further assistance.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Triggered emails are automated emails that are sent based on specific actions or events and are highly personalized and relevant. These emails have higher open and click-through rates than regular marketing emails.
+Keep in mind that triggered emails should be added with a clear opt-in and opt-out option and should be compliant with the email regulations of your country/region.&lt;/p&gt;
+
+&lt;p&gt;Triggered emails are an effective and easy way to give a personal touch to your relationship with your customer. Following up with your customers helps them understand that you care about your relationship. Use this opportunity to let them know how to reach out to you if they need help, follow you on social media, subscribe to your blog or video channel, or refer you to a friend.&lt;/p&gt;
+
+&lt;h2 id=&quot;always-keep-testing&quot;&gt;Always keep testing&lt;/h2&gt;
+
+&lt;p&gt;Most of the time, you won’t nail your email marketing on your first try. And even if you do, you’ll always find room for improvement if you have data from your past email campaigns. Keep testing versions of copy, content, CTAs, and template design. Also, try different times, days of the week, and frequencies to determine which combination works best for your audience. Marketing is all about continuous improvement.&lt;/p&gt;
+
+&lt;p&gt;In summary, personalization is a crucial element of effective email marketing. By incorporating different types of personalization into your email marketing strategy, such as personalized subject lines, segmentation, dynamic content, triggered emails, and A/B testing, you can create highly targeted, relevant content that resonates with your subscribers and drives better results.&lt;/p&gt;
+
+&lt;p&gt;Remember that personalization is not only about putting a subscriber’s name into the email but also about providing the correct information and offers at the right time. It is vital to use data and analytics to track the performance of your personalized emails and continue to make improvements over time.&lt;/p&gt;
+
+&lt;p&gt;Also, collecting first-party data is a lot more critical these days after all the new privacy laws coming into effect in the last few years. &lt;a href=&quot;https://mixpanel.com&quot; target=&quot;_blank&quot;&gt;Mixpanel&lt;/a&gt; is an excellent tool for setting up detailed tracking on your website and app.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0500</pubDate>
-        <link>/education/</link>
-        <guid isPermaLink="true">/education/</guid>
+        <pubDate>Tue, 24 Jan 2023 00:00:00 +0500</pubDate>
+        <link>/go-beyond-first-names-personalization-is-about-a-lot-more/</link>
+        <guid isPermaLink="true">/go-beyond-first-names-personalization-is-about-a-lot-more/</guid>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Accumulated experience of social living</title>
-        <description>&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0500</pubDate>
-        <link>/acumulated-experience/</link>
-        <guid isPermaLink="true">/acumulated-experience/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>About Bundler</title>
-        <description>&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gem install bundler&lt;/code&gt; installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundler&lt;/code&gt; is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.&lt;/p&gt;
-
-&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; files inform &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec&lt;/code&gt; and just &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;run jekyll serve&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;When you run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; uses the gems and versions as specified in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; to ensure your Jekyll site builds with no compatibility or dependency conflicts.&lt;/p&gt;
-
-&lt;p&gt;For more information about how to use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 May 2018 00:00:00 +0500</pubDate>
-        <link>/about-bundler/</link>
-        <guid isPermaLink="true">/about-bundler/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-      </item>
-    
-      <item>
-        <title>We all wait for summer</title>
-        <description>&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
-
-&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0500</pubDate>
-        <link>/we-all-wait-for-summer/</link>
-        <guid isPermaLink="true">/we-all-wait-for-summer/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Tree of Codes</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0500</pubDate>
-        <link>/tree-of-codes/</link>
-        <guid isPermaLink="true">/tree-of-codes/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Red Riding Hood</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0500</pubDate>
-        <link>/red-riding/</link>
-        <guid isPermaLink="true">/red-riding/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Press and education</title>
-        <description>&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
-
-&lt;p&gt;Education must also train one for quick, &lt;strong&gt;resolute and effective thinking&lt;/strong&gt;. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
-
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
-
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0500</pubDate>
-        <link>/press-and-education/</link>
-        <guid isPermaLink="true">/press-and-education/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Options for creating a new site with Jekyll</title>
-        <description>&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new &amp;lt;PATH&amp;gt;&lt;/code&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;myblog&lt;/code&gt;. Here are some additional details:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To install the Jekyll site into the directory you’re currently in, run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; . If the existing directory isn’t empty, you can pass the –force option with jekyll new . –force.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; automatically initiates &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; to install the dependencies required. (If you don’t want Bundler to install the gems, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new myblog --skip-bundle&lt;/code&gt;.)&lt;/li&gt;
-  &lt;li&gt;By default, the Jekyll site installed by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.&lt;/li&gt;
-  &lt;li&gt;We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new myblog --blank&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;To learn about other parameters you can include with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;, type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new --help&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0500</pubDate>
-        <link>/options-for-creating-new-site-with-jekyll/</link>
-        <guid isPermaLink="true">/options-for-creating-new-site-with-jekyll/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>email marketing</category>
         
       </item>
     
