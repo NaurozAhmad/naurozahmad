@@ -3,7 +3,7 @@ name: "Nauroz Ahmad"
 title: "Nauroz Ahmad"
 description: "Articles about marketing trends, case studies and tutorials."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
 google_analytics: ''
 disqus: ''
@@ -16,7 +16,7 @@ authors:
   nauroz:
     name: Nauroz
     display_name: Nauroz
-    gravatar: ''
+    avatar: 'assets/images/nauroz.png'
     email: ahmadnauroz@gmail.com
     web: https://naurozahmad.com
     twitter: https://twitter.com/naurozahmad3

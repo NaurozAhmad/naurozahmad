@@ -1,35 +1,18 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Nauroz
 permalink: /about
-comments: true
+comments: false
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+Hey there! I'm excited to have you visiting my website where I share my thoughts and insights on the ever-evolving world of digital marketing. I've been working in this field for a while now, and I've had the opportunity to work with some great brands, specifically in the Travel and Hospitality industry.
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+I specialize in market research, strategy development, and coordination with digital marketing agencies. I hold multiple certifications in digital marketing, leadership, and project management, which has helped me to stay on top of the latest industry trends and best practices. I'm also currently pursuing my MBA in International Marketing from Germany which gives me a broader perspective on the global marketing industry.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+On this website, I'll be sharing my thoughts and experiences on various topics related to digital marketing. I'll be covering the latest trends, sharing case studies and my own experience, and providing tutorials on different digital marketing techniques. I hope my insights will be valuable for you and help you in your own digital marketing journey.
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+Feel free to reach out to me if you have any questions or just wanna talk. I'd love to hear from you!
 
-<h4>Questions or bug reports?</h4>
+LinkedIn: [https://www.linkedin.com/in/nauroz-ahmad/](https://www.linkedin.com/in/nauroz-ahmad/){:target="_blank"}
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+Email: [ahmadnauroz@gmail.com](mailto:ahmadnauroz@gmail.com){:target="_blank"}
